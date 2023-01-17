@@ -1,4 +1,4 @@
-# Basic Django Applitaion
+# Basic Django Application
 ```py
 python3 manage.py runserver
 ```
