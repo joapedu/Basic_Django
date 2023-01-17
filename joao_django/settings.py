@@ -17,7 +17,7 @@ DEBUG = True
 ALLOWED_HOSTS = []
 
 
-# Application definition
+# Sempre que criar um app = colocar aqui
 
 INSTALLED_APPS = [
     'django.contrib.admin',
@@ -26,6 +26,7 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
+    'produtos'
 ]
 
 MIDDLEWARE = [
