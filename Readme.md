@@ -9,6 +9,11 @@
   - venv\Scripts\activate
 
 #
+- To create a core
+```py
+django-admin startproject <name>
+```
+
 - To run the application
 ```py
 python3 manage.py runserver
