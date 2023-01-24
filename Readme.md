@@ -1,5 +1,4 @@
-# Basic Django Application
-
+# :dart: Basic Django Application Using Docker
 
 - To create a virtual enviroment :
   - python3 -m venv venv
@@ -23,3 +22,10 @@ python3 manage.py runserver
 ```py
 python3 manage.py startapp <name>
 ```
+#
+
+# With docker
+        - docker compose up
+#
+
+![](https://mmorejon.io/images/blog/django-docker/thumbnail.jpg)
